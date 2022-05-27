@@ -1,0 +1,83 @@
+segment_sources:
+  I4F956A6B:
+    type: origin_type
+    relation: translation
+    language: sa
+  I43FC48CC:
+    type: origin_type
+    relation: translation
+    language: sa
+  ID3368663:
+    type: origin_type
+    relation: translation
+    language: sa
+  I3D532915:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA82C3A81:
+    type: origin_type
+    relation: translation
+    language: zh
+  I6AB14996:
+    type: origin_type
+    relation: translation
+    language: zh
+  I8B535459:
+    type: origin_type
+    relation: translation
+    language: zh
+  I4BBBF804:
+    type: origin_type
+    relation: translation
+    language: zh
+  I18C9F495:
+    type: origin_type
+    relation: translation
+    language: zh
+  I38C1B183:
+    type: origin_type
+    relation: translation
+    language: zh
+  I5954D3E1:
+    type: origin_type
+    relation: translation
+    language: zh
+  IF6B9A96F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I779D42D7:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5584F420:
+    type: origin_type
+    relation: translation
+    language: en
+  IC04FC37D:
+    type: origin_type
+    relation: translation
+    language: en
+  I4A3B2424:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  a7096e2ae902409fa7443d204457ecde:
+    I4F956A6B: 49f8f23857884a16ba6302e381f7d45d
+    I43FC48CC: 37f9a170e6944bbe85ae4dabc9973f01
+    ID3368663: 1cdb568875bc41b49e4b72ecb88371eb
+    I3D532915: None
+    IA82C3A81: d02ad173f8644e50bbc3517e6249880c
+    I6AB14996: 53135df5a478412b9b0caf2e69baa425
+    I8B535459: 6d25026e30b94907b17fde7d06611f55
+    I4BBBF804: f3d88c203a51403c975692e037f74ba3
+    I18C9F495: d46b14efd70b4ce49077de78253301c9
+    I38C1B183: 64df0243e33343cfbdde93421ebfe48d
+    I5954D3E1: 6b4f83c65420479ba2e10a3d3ea247d7
+    IF6B9A96F: e50d19b20b66426aa68cb34374fda41b
+    I779D42D7: b316fb9195fd4957ae9ea83bad3592e3
+    I5584F420: a0fcdaccb3e54475b1a44aa3b0e14528
+    IC04FC37D: c36235cff5914e65954d9524b9fee056
+    I4A3B2424: 10a44d6de22f441cb8867fafe913afff

@@ -1,0 +1,83 @@
+segment_sources:
+  I4F956A6B:
+    type: origin_type
+    relation: translation
+    language: sa
+  I43FC48CC:
+    type: origin_type
+    relation: translation
+    language: sa
+  ID3368663:
+    type: origin_type
+    relation: translation
+    language: sa
+  I3D532915:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA82C3A81:
+    type: origin_type
+    relation: translation
+    language: zh
+  I6AB14996:
+    type: origin_type
+    relation: translation
+    language: zh
+  I8B535459:
+    type: origin_type
+    relation: translation
+    language: zh
+  I4BBBF804:
+    type: origin_type
+    relation: translation
+    language: zh
+  I18C9F495:
+    type: origin_type
+    relation: translation
+    language: zh
+  I38C1B183:
+    type: origin_type
+    relation: translation
+    language: zh
+  I5954D3E1:
+    type: origin_type
+    relation: translation
+    language: zh
+  IF6B9A96F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I779D42D7:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5584F420:
+    type: origin_type
+    relation: translation
+    language: en
+  IC04FC37D:
+    type: origin_type
+    relation: translation
+    language: en
+  I4A3B2424:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  af6535d39179499fadae4faf281254c4:
+    I4F956A6B: 37c317c2d89d41788e3b48fb95649e9a
+    I43FC48CC: 33d7b9781d1247c78b0371b07e91acb3
+    ID3368663: 30383d96766b4ee2a95a7be90b6dd654
+    I3D532915: 24294ce2a1474f8ba318108cb6250eab
+    IA82C3A81: df5f8faa96b544d1905aa0b259279696
+    I6AB14996: dca2c4337741470987b37856bde9994e
+    I8B535459: 463d1dd4390d42f29b7e877ede773fda
+    I4BBBF804: 4e3671e881264903b8bffc2f36ae3ed6
+    I18C9F495: 3561ffb3b14e401387908a9d090161b3
+    I38C1B183: b23ad4c61e87458984d7b3310f794b2b
+    I5954D3E1: b62e636030204b93a82b9c8eb3093eea
+    IF6B9A96F: 9cbe32c069fc4a388d80220048e827c1
+    I779D42D7: 2de6c919899d4b198109ec7fea10bb10
+    I5584F420: b160d02336f84087b671fbaca2cef1ed
+    IC04FC37D: 35325d2bd4514bc6b28346543d5a8a2b
+    I4A3B2424: 9340bf80fc564b26997ef2c4077b86bc

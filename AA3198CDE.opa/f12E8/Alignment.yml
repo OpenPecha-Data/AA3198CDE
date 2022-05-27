@@ -1,0 +1,83 @@
+segment_sources:
+  I4F956A6B:
+    type: origin_type
+    relation: translation
+    language: sa
+  I43FC48CC:
+    type: origin_type
+    relation: translation
+    language: sa
+  ID3368663:
+    type: origin_type
+    relation: translation
+    language: sa
+  I3D532915:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA82C3A81:
+    type: origin_type
+    relation: translation
+    language: zh
+  I6AB14996:
+    type: origin_type
+    relation: translation
+    language: zh
+  I8B535459:
+    type: origin_type
+    relation: translation
+    language: zh
+  I4BBBF804:
+    type: origin_type
+    relation: translation
+    language: zh
+  I18C9F495:
+    type: origin_type
+    relation: translation
+    language: zh
+  I38C1B183:
+    type: origin_type
+    relation: translation
+    language: zh
+  I5954D3E1:
+    type: origin_type
+    relation: translation
+    language: zh
+  IF6B9A96F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I779D42D7:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5584F420:
+    type: origin_type
+    relation: translation
+    language: en
+  IC04FC37D:
+    type: origin_type
+    relation: translation
+    language: en
+  I4A3B2424:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  beab24d6eff54142ab081de9636b6536:
+    I4F956A6B: b8d2e6cd93b242828862c58253ee3a30
+    I43FC48CC: a2f3f3d9d5c542afa411a8588e8c3c27
+    ID3368663: 3a6b46beefb342e09e722b2bcc43bf44
+    I3D532915: None
+    IA82C3A81: bc47a37bc289441384941a149104838c
+    I6AB14996: 20744720c8b942309d7ff80f3820a064
+    I8B535459: 5fa300a188c741eeba271e460dae6d55
+    I4BBBF804: f136851bb9ed43acbb6c4dd11733246f
+    I18C9F495: d500aa1506e1471d94b5fadaa4b6f529
+    I38C1B183: 6ce7372de222401581c9b701444e90f6
+    I5954D3E1: 8f06af79e99744888beb2eb7356553a9
+    IF6B9A96F: 4184b5634ece4e7491ef5be61e6dd81c
+    I779D42D7: 2f218c764fc445f1956a695addb25ae9
+    I5584F420: dbbffca84c184a438dfb20a08a9f1f3d
+    IC04FC37D: cd4a598b28bc4f6f8d826866a174a7d1
+    I4A3B2424: 2918cda4bcf246f890301dace4b1b963
